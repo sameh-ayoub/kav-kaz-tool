@@ -9,6 +9,9 @@
 تروح الموقع حق بايثون:
 
 https://www.python.org/downloads/
+> [!WARNING]
+> تحذير مهم
+
 
 موجود في روم الديسكورد
 
