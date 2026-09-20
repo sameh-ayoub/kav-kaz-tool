@@ -10,8 +10,6 @@
 
 https://www.python.org/downloads/
 
-
-
 موجود في روم الديسكورد
 
 ### 2. التحقق من اصدار بايثون
@@ -19,7 +17,7 @@ https://www.python.org/downloads/
 بعد ماتحمل بايثون تفتح cmd في نفس المجلد حق التحميل وتكتب:
 
 ```
-python --version
+python3 --version
 ```
 
 بيظهرلك الاصدار مثلا 3.11.9
@@ -27,13 +25,13 @@ python --version
 ### 3. تحديث pip
 
 ```
-python -m pip install --upgrade pip
+python3 -m pip install --upgrade pip
 ```
 
 ### 4. تثبيت المكتبات
 
 ```
-python -m pip install discord.py customtkinter cryptography Pillow requests certifi aiohttp
+python3 -m pip install discord.py customtkinter cryptography Pillow requests certifi aiohttp
 ```
 
 ### 5. تشغيل الاداه
@@ -41,7 +39,7 @@ python -m pip install discord.py customtkinter cryptography Pillow requests cert
 وفي نفس ال cmd تكتب:
 
 ```
-python main.py
+python3 main.py
 ```
 > [!WARNING]
 > استعمال الاداه علي مسوليتك الشخصيه حنا مالنا دخل في اي شي 
