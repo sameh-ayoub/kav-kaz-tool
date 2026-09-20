@@ -41,6 +41,9 @@ python3 -m pip install discord.py customtkinter cryptography Pillow requests cer
 ```
 python3 main.py
 ```
+
+### 6. 
+بعدها تروح الموقع ذا عشان تجيب توكن بوتك : https://discord.com/developers/applications
 > [!WARNING]
 > استعمال الاداه علي مسوليتك الشخصيه حنا مالنا دخل في اي شي 
 
