@@ -9,8 +9,7 @@
 تروح الموقع حق بايثون:
 
 https://www.python.org/downloads/
-> [!WARNING]
-> تحذير مهم
+
 
 
 موجود في روم الديسكورد
@@ -44,3 +43,8 @@ python -m pip install discord.py customtkinter cryptography Pillow requests cert
 ```
 python main.py
 ```
+> [!WARNING]
+> استعمال الاداه علي مسوليتك الشخصيه حنا مالنا دخل في اي شي 
+
+> [!NOTE]
+> لو تبي تصمم اداه نفسها او عندك فكره لاداه تواصل معي ديسكورد يوزري 23f9
